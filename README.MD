@@ -9,7 +9,7 @@ CSS
 
 ## Website
 https://tenderdigits.github.io/Refractor/
-meets accessibility standards.
+
 
 ## Contribution
 Made with ❤️ by Sergio Lamar
